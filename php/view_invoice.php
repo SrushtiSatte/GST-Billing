@@ -26,7 +26,7 @@ if (isset($_GET['id'])) {
 <head>
     <meta charset="UTF-8">
     <title>Invoice <?php echo isset($invoice) ? "#".$invoice['id'] : ""; ?></title>
-    <link rel="stylesheet" href="style2.css">
+    <link rel="stylesheet" href="../css/style2.css">
     <script>
         function printInvoice() {
             window.print();

@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url('view.avif');
+    background-image: url('../imgs/view.avif');
     background-size: cover; /* Ensures the image covers the entire background */
     background-position: center center; /* Centers the image */
     background-attachment: fixed; /* Makes the background image stay fixed during scrolling */

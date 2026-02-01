@@ -1,6 +1,6 @@
 body {
     font-family: 'Segoe UI', sans-serif;
-    background: url('indexes.png') no-repeat center center fixed;
+    background: url('../imgs/indexes.png') no-repeat center center fixed;
     background-size: cover;
     color: #333;
     text-align: center;

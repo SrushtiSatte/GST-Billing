@@ -1,0 +1,9 @@
+# Ignore raw mysql data folder (do NOT commit raw DB files)
+gst_billing/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
